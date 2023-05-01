@@ -1,0 +1,15 @@
+.todo-app {
+  max-width: 400px;
+  display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 100px;
+}
+.top-panel {
+  margin: 1rem 0;
+}
+.app{
+  width: 100%;
+  height: 100%;
+  position: absolute;
+}
